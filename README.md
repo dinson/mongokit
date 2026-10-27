@@ -12,8 +12,14 @@ A generic MongoDB repository implementation in Go that provides a reusable abstr
 
 ## Installation
 
+v1
 ```bash
 go get github.com/dinson/mongokit
+```
+
+v2 - uses mongo driver v2
+```bash
+go get github.com/dinson/mongokit/v2@v2.0.0
 ```
 
 ## Usage
